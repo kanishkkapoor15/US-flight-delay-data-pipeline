@@ -1,6 +1,6 @@
 # Project Aeroflow
 
-🛫 Real-Time Airline Delay Analytics Pipeline
+Real-Time Airline Delay Analytics Pipeline
 
 <img width="1377" height="654" alt="Screenshot 2025-11-09 at 12 05 12 AM" src="https://github.com/user-attachments/assets/4bb856b7-5152-41c1-ba2d-da48f69d4ba7" />
 
